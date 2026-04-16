@@ -1,0 +1,2 @@
+# Makeup-Street-Decentralized-Autonomous-Organization-separate-legal-and-operational-identity-
+Makeup‑Street DAO is the autonomous governance layer of the Makeup‑Street ecosystem, operating entirely on the XRP Ledger and powered by the MSDAO governance token. It manages proposals, voting, community participation, and treasury rules — all without commingling with Makeup‑Street LLC, Makeup‑Street Organization
